@@ -9,7 +9,7 @@ index.html
 </head>
 <body>
     <div class="card">
-        <img src="image.jpg" alt="Sample Image" class="card__image">
+        <img src="https://via.placeholder.com/300" alt="Sample Image" class="card__image">
         <h2 class="card__title">Card Title</h2>
         <p class="card__description">This is a description of the card content.</p>
         <button class="button card__button card__button--primary">Learn More</button>
